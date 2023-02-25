@@ -14,7 +14,6 @@
 #include <stdint.h>
 
 #define ll long long
-#define arr array
 #define dd double double
 #define ld long double
 #define chr char
