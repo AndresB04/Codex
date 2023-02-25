@@ -20,6 +20,6 @@
 #define chr16_t char16_t
 #define chr32_t char32_t
 #define wchr_t wchar_t
-#define uchr unsigned char
+#define uchar unsigned char
 #define flt float
 #define vd void
