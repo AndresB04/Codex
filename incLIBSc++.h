@@ -17,7 +17,7 @@
 #define dd double double
 #define ld long double
 #define chr char
-#define chr16P_t char16_t
+#define chr16_t char16_t
 #define chr32_t char32_t
 #define wchr_t wchar_t
 #define uchr unsigned char
