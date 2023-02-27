@@ -8,7 +8,6 @@ Atomic operations for multithreading
 Data types such as long long, double, long double, char, char16_t, char32_t, wchar_t, unsigned char, float, and void
 Math functions such as sqrt()
 Macros for defining data types and other useful functions
-
 Dependencies
 This library does not require any external dependencies.
 
