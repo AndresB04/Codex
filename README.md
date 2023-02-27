@@ -1,5 +1,4 @@
 # Codex
-C++ Utility Library
 This is a C++ utility library that provides various useful functions and data types for C++ programmers.
 
 Features
